@@ -1,3 +1,9 @@
+Adikteev Users
+==============
+
+Deploy with:  
+`sbt stage deployHeroku`  
+
 Kafka Manager
 =============
 

@@ -86,3 +86,9 @@ rpmUrl := Some("https://github.com/yahoo/kafka-manager")
 rpmLicense := Some("Apache")
 
 /* End RPM Settings */
+
+/* Heroku settings */
+
+herokuAppName in Compile := "adikteev-kafka-manager"
+
+/* End Heroku settings */
